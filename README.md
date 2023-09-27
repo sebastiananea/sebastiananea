@@ -1,8 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Sebastian Anea <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<h4 align="center">:adult:I'm a 25yo developer from Argentina, Henry Bootcamp (full stack web dev +800hr) graduate and currently studying Computer Science degree in Universidad de Buenos Aires. </h4>
+<h4 align="center">:adult:I'm a 26yo developer from Argentina, Henry Bootcamp (full stack web dev +800hr) graduate and currently working for ABS-TI as a Front-end developer. </h4>
 
-- :seedling: I’m currently learning **React Native:mobile_phone:**
 
 - :eyes: Looking for new challenges where grown day by day
 
